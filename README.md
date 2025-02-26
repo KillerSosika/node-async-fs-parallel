@@ -1,0 +1,3 @@
+This module provides full functionality for processing files in a directory. It reads the directory contents, checks file properties, modifies the data, and writes the updated content back to the files. The process also logs operations and displays results in the console.
+
+It handles error detection automatically and stops execution if an error occurs. The module executes tasks asynchronously, ensuring efficient processing without manual error handling. It processes tasks in parallel, allowing multiple operations to run simultaneously, improving performance. Additionally, the execution order of tasks varies depending on the method used.
